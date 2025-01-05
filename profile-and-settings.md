@@ -131,3 +131,6 @@ compress method: zlib
 
 data structure: unknown yet. (possible C++ struct)
 
+## inflated data sample
+![profile.dat](./image.png)
+
